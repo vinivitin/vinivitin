@@ -1,2 +1,2 @@
-👋 Hi, I’m @vinivitin
+👋 Hi
 
