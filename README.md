@@ -3,7 +3,7 @@
 Software developer at **AlarisLabs** · Argentina  
 There I build small, focused tools — mostly for macOS.
 
-## Projects <img src="assets/projects.svg" width="24" alt="">
+## Projects
 
 <table>
   <tr>
