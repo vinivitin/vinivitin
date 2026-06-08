@@ -1,9 +1,9 @@
-# Hi, I'm Illia 👋
+# Hi, I'm Illia <img src="assets/wave.svg" width="32" alt="wave">
 
 Software developer at **AlarisLabs** · Argentina  
 There I build small, focused tools — mostly for macOS.
 
-## Projects
+## Projects <img src="assets/projects.svg" width="24" alt="">
 
 <table>
   <tr>
